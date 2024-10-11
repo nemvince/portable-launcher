@@ -1,0 +1,4 @@
+portablemc[certifi]
+msal
+requests
+tqdm

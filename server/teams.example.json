@@ -1,0 +1,24 @@
+{
+  "teams": [
+    {
+      "name": "Example Team (1)",
+      "server_port": 25560,
+      "members": [
+        "Alex Bob",
+        "Charlie David",
+        "Eva Frank",
+        "George Henry"
+      ]
+    },
+    {
+      "name": "People Team (2)",
+      "server_port": 25561,
+      "members": [
+        "Ivy Jack",
+        "Kevin Larry",
+        "Mary Nancy",
+        "Oliver Peter"
+      ]
+    }
+  ]
+}

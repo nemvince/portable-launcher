@@ -1,0 +1,5 @@
+{
+  "useModpack": true,
+  "modpackUrl": "modpack.zip",
+  "wipeOnStart": false
+}

@@ -1,0 +1,11 @@
+__pycache__/
+.build/
+dist/
+main.build/
+main.dist/
+.venv/
+main.exe
+
+# i don't know if the icon is licensed or not
+# so i'm not going to include it in the repo
+steering-wheel.ico
